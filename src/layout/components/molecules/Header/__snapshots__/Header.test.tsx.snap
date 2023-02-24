@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <Header /> correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#21386E",
+        "borderBottomLeftRadius": 15,
+        "borderBottomRightRadius": 15,
+        "height": 75,
+        "justifyContent": "center",
+        "width": "100%",
+      },
+    ]
+  }
+>
+  <Image
+    source={1}
+  />
+</View>
+`;

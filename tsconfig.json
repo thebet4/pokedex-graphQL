@@ -1,0 +1,20 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "@routes*": [
+        "./src/routes*"
+      ],
+      "@config*": [
+        "./src/config*"
+      ],
+      "@core*":[
+        "./src/core*"
+      ],
+      "@layout*": [
+        "./src/layout*"
+      ]
+    }   
+  }
+}

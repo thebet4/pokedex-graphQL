@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <BoldText /> correctly 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "#FFFFFF",
+        "fontFamily": "Inter_700Bold",
+        "fontSize": 18,
+        "lineHeight": 21,
+        "textTransform": "capitalize",
+      },
+    ]
+  }
+>
+  Pokemon
+</Text>
+`;
